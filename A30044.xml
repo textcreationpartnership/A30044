@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seventy queries to seventy Quakers. Or, A second sober expostulation with the hearers amongst the Quakers, by way of interrogation; touching the doctrine and practice of their mercenary teachers, expecting their answer, or else shall conclude by their silence, they assent to what is objected against them by Fra. Bugg.  The introduction to the reader.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30044</idno>
+            <idno type="STC">Wing B5393</idno>
+            <idno type="STC">ESTC R219419</idno>
+            <idno type="EEBO-CITATION">99830893</idno>
+            <idno type="PROQUEST">99830893</idno>
+            <idno type="VID">35355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35355)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2047:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seventy queries to seventy Quakers. Or, A second sober expostulation with the hearers amongst the Quakers, by way of interrogation; touching the doctrine and practice of their mercenary teachers, expecting their answer, or else shall conclude by their silence, they assent to what is objected against them by Fra. Bugg.  The introduction to the reader.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>written by the author of The Pilgrim's Progress, from Quakerism to Christianity, &amp;c. Sept. 1698. and both sold by W. Kettleby, at the Bishop's Head, in St. Paul's Church-yard, London,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1698]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35355:1" rendition="simple:additions"/>
+            <head> 
+               <hi>Queries</hi> to Seventy <hi>Quakers.</hi> OR, A Second Sober Expoſtulation with the Hearers, amongſt the <hi>Quakers,</hi> by way of Interrogation; touching the Doctrine and Practice of their Mer<g ref="char:EOLhyphen"/>cenary Teachers, expecting their Anſwer, or elſe ſhall conclude by their Silence, they aſſent to what is objected againſt them by <hi>Fra. Bugg.</hi>
+            </head>
+            <div type="introduction">
+               <head>The Introduction to the READER.</head>
+               <p>READER, In <hi>February</hi> laſt I wrote a Book in <hi>Octavo,</hi> Intituled, <hi>A Sober Expoſtulation,</hi> &amp;c. and I hope it hath ſome effect upon them, ſince I meet with no Anſwer: Their Teachers uſe to boaſt of their quick An<g ref="char:EOLhyphen"/>ſwers, as in their Book, <hi>Judas and the Jews,</hi> &amp;c. And formerly <hi>G. Whitehead</hi> wrote Three Books againſt me in Nine Months time; but this is the third time I have wrote againſt them in Six Months time, and no Anſwer, which ſhew they begin to flag, and hang down their Heads, as if they were unable; but now I'll let <hi>G. Whitehead</hi> alone, 'tis not manly to fight below; no, let him riſe and waſh himſelf, and then poſſibly he may come out with a Sheet againſt Twenty, and Nibble here and there like the Rats: But, Reader, obſerve but even thoſe Parts of my Books, which the <hi>Quakers</hi> make no reply to, and the Charges therein laid; and it will diſcover to thee their Errors to be both great and dangerous. But why (I marvel) are their Teachers ſo ſlow at writing? What? Do their Spring begin to fail? For when Father <hi>Penn</hi> receiv'd <hi>Jer. Ives</hi>'s <hi>Sober Requeſt</hi> over-Night the 26th of <hi>October</hi> 1674. he took his Natural Reſt, (as himſelf ſays) and in an Hours time next Morning wrote his Anſwer, why then will neither he nor <hi>Ellwood</hi> come in to the Aſſiſtance of their diſconſolate Brother <hi>Whitehead?</hi> Why do they make ſuch a drudge of him? Is it becauſe he is expert in wording the Matter otherwiſe, and yet can mean the ſame thing, <hi>viz.</hi> write one thing and mean another? Thus much by way of Introduction.</p>
+            </div>
+            <div type="section">
+               <head>Firſt, Touching the Charge on<hi> G. W.</hi> in <hi>Pil. Progreſs.</hi> p. 172.</head>
+               <p>
+                  <hi>QUery.</hi> 1. Whether the Perſon that Suffered without the Gates of <hi>Jeruſalem,</hi> be properly the Son of God? <hi>Anſw.</hi> yea or nay.</p>
+               <p>
+                  <hi>Q.</hi> 2. If nay, whoſe Son properly was he? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 3. If yea, Why do you follow ſuch Teachers as utterly deny it? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 4. Whether your Teachers do not deny the Scriptures, when they call them Death, Duſt, Serpents Meat, Beaſtly Ware? <hi>Anſw.</hi> yea or nay.</p>
+               <pb n="2" facs="tcp:35355:2"/>
+               <p>
+                  <hi>Q.</hi> 5. If yea, Why do other of your Teachers ſay they prefer the Bible above all other Books Extant in the World? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 6. Whether your Teachers ſpeak from the Spirit of Truth, or the Spirit of Error, in their Writings and Preachings? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 7. If from the Spirit of Truth, then whether their ſo ſpeaking be of as great Authority as the Scriptures and Chapters are, and greater, as G. <hi>White<g ref="char:EOLhyphen"/>head</hi> Teaches? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 8. If ſo, then whether their Doctrine do not tend to overthrow the Divine Authority of the Scriptures? <hi>Anſw.</hi> yea or nay.</p>
+               <p>
+                  <hi>Q.</hi> 9. Whether it be Conjuration to preach out of the Scriptures of the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, as your Books Teach? <hi>Anſw.</hi> yea or nay.</p>
+               <p>
+                  <hi>Q.</hi> 10. Why do your Teachers Queſtion, whether <hi>Moſes</hi> or <hi>Hermes</hi> was the firſt Pen-man of the Scriptures; yea, either or neither? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 11. Doth it not from ſuch Queſtioning appear, that your Teachers de<g ref="char:EOLhyphen"/>ſign the overthrow of Revealed Religion? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 12. Whether are the Sufferings of the <hi>Quakers</hi> greater than the Sufferings of Chriſt, his Apoſtles, and all the Martyrs ſince? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 13. If nay, Whether was not <hi>Edw. Burrough</hi> a Blaſphemer, who ſo wrote, and <hi>G. Whitehead,</hi> &amp;c. likewiſe, who approved and recommended ſuch Do<g ref="char:EOLhyphen"/>ctrine? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 14. Whether are the Sufferings of the <hi>Quakers</hi> more unjuſt than the Suffer<g ref="char:EOLhyphen"/>ings of Chriſt, his Apoſtles, and Martyrs? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 15. If nay, Whether was not <hi>E. Burrough</hi> a Blaſphemer, who ſo wrote, and <hi>G. Whitehead,</hi> who approved and recommended ſuch Doctrine? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 16. Whether were the Sufferings of Chriſt, his Apoſtles and Martyrs, duly executed upon them by a Law, or at leaſt in a great Meaſure? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 17. If nay, Whether was not <hi>E. Burrough</hi> a Blaſphemer, who ſo wrote, and <hi>G. Whitehead,</hi> &amp;c. likewiſe, who approved and recommended ſuch Do<g ref="char:EOLhyphen"/>ctrine? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 18. Whether this Doctrine of <hi>Burrough, Whitehead, Fox, Coale,</hi> &amp;c. does not tend to undervalue the Death and Sufferings of Chriſt, and to exalt their own Sufferings, as not only greater, but more unjuſt? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 19. If yea, Whether your Teachers are not grand Deceivers and Antichriſts, even ſuch as Chriſt foretold of? <hi>Mat.</hi> 24.24. <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 20. If yea, Whether you ought not to forſake ſuch Impoſtors? <hi>Anſw.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Touching <hi>G. Fox's</hi> Self-Exaltations: <hi>See Pil. Prog.</hi> p. 21. 29.</head>
+               <p>
+                  <hi>Q.</hi> 21. Whether you believe that <hi>G. Fox</hi> wrote his Book, <hi>News coming up, out of the North,</hi> &amp;c. <hi>from the Mouth of the Lord,</hi> as in <hi>p.</hi> 1. he pretended? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 22. Whether you believe that <hi>G. Fox</hi> was Naked when he wrote that Book, as himſelf ſaid? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 23. Whether you believe that his riſing up out of the <hi>North</hi> was Propheſied of, as he there pretended? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 24. If yea, Then by what Prophet, whether <hi>Moſes, Jeremiah, Iſaiah, Eze<g ref="char:EOLhyphen"/>kiel, Daniel,</hi> or by <hi>Lodowick Muggleton? Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 25. If not by the true Prophets, then whether he was not an Impoſtor, who Impoſed on the World his horrible Deluſions? <hi>Anſw.</hi>
+               </p>
+               <pb n="3" facs="tcp:35355:2"/>
+               <p>
+                  <hi>Q.</hi> 26. Whether was <hi>G. Fox</hi>'s Name ſo Covered from the ſight and know<g ref="char:EOLhyphen"/>ledge of the World, as that neither himſelf, nor his Name was known in the World, as he ſaid himſelf? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 27. If yea, How came the People, when they ſaw him, and heard him ſpeak, to ſay, Lo, this is <hi>George Fox;</hi> or how came the Juſtices to make his Mittimus; and ſend him to the Houſe of Correction, for his Blaſphemy, by the Name of <hi>George Fox,</hi> (the Shooe-maker)? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 28. Whether <hi>he</hi> that <hi>hath</hi> the ſame Spirit that raiſed Jeſus from the Dead, be equal with God? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 29. Whether the <hi>Quakers</hi> have not the ſame Spirit that raiſed Jeſus from the Dead? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 30. If yea, Whether the <hi>Quakers</hi> be not equal with God? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 31. Whether you do believe that <hi>George Fox</hi> attained in his Life-time to that fulneſs of Glory, as that his Head and Ears was filled full of it? <hi>Anſw.</hi> yea or nay.</p>
+               <p>
+                  <hi>Q.</hi> 32. If nay, Whether was not <hi>George Fox</hi> a grand Impoſtor? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 33. Whether you do believe that <hi>George Fox</hi> was before all Lauguages were, as he ſaid he was? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 34. If nay, Whether then you ought to adhere to the Works of ſuch an Impoſtor? <hi>Anſw.</hi> And whether his <hi>Journal</hi> be better than the <hi>Bible,</hi> as <hi>William Mead</hi> ſaid it was? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 35. Whether do you believe that <hi>George Fox</hi> wrought Miracles? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 36. If yea, In whoſe Name then did he work thoſe Miracles; in his own Name, or in the Name of ſome other Man, ſince in the Name of Jeſus of <hi>Nazareth</hi> he wrought no Miracle? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 37. If not in the Name of Jeſus, whether he was not an Impoſtor? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 38. Whether do you believe that <hi>George Fox</hi> ſaw the Heavens open, as he pretended? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 39. If yea, Then what Heaven? Was it that above, as St. <hi>Stephen</hi> did, where he ſaw the Son of Man, or a Heaven within his Belly only? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 40. Whether do you believe that the keeper of the Houſe of Correction, (whereinto <hi>G. Fox</hi> was caſt for his Blaſphemy) came trembling to him, as the Goaler did to <hi>Paul,</hi> who was a Priſoner for Preaching in the Name of Jeſus? <hi>Anſ.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 41. Do you believe that <hi>George Fox</hi> ſaw a Pool of Blood in the Town of <hi>Litchfield,</hi> and a Channel of Blood run in the Streets, (when no Man elſe ſaw a drop of Blood) as he ſaid? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 42. If nay, Then whether you can believe, That ſuch as took this <hi>Fox</hi> for a Prophet, were not as much bewitch'd, as the <hi>Samaritans</hi> were in the Caſe of <hi>Si<g ref="char:EOLhyphen"/>mon Magus?</hi> Acts 8. <hi>Anſw.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Touching your Teachers Idolizing this <hi>Fox.</hi>
+               </head>
+               <p>
+                  <hi>Q.</hi> 43. Whether this <hi>Fox</hi> was the Father of many Nations, as <hi>Joſiah Coale,</hi> one of your Teachers, wrote him to be? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 44. And whether <hi>G. Fox</hi> had a Kingdom, of whoſe Increaſe there ſhould be no end, as <hi>Coale</hi> ſaid? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 45. If yea, Whether <hi>George Fox</hi> was not a King, and both then and
+<pb n="4" facs="tcp:35355:3"/> now Ruling in Righteouſneſs, in his Everlaſting Kingdom? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 46. If nay, in that he is dead and rotting in his Grave, then whether <hi>Jo<g ref="char:EOLhyphen"/>ſiah Coale</hi> was not then an Idolater? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 47. Whether <hi>G. Fox</hi> in his Life-time was Dignified with <hi>Eternal Honour,</hi> as <hi>J. Blaikling,</hi> another of your Teachers ſaid? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 48. Whether it might be truly ſaid of <hi>G. Fox,</hi> as it was of Chriſt, That he was in the World, and the World was Made by him; and the World knew him not? <hi>Anſw.</hi>
+               </p>
+               <p>Now if theſe things be true of <hi>G. Fox.</hi> Firſt, what he ſaid of himſelf, next what his Preachers ſaid of him, I marvel how the <hi>Jews,</hi> if they give the ſame Credit to the <hi>Quakers</hi> Books, that they give to the Hiſtory of St. <hi>Luke,</hi> ſhall know which is the true Meſſiah, <hi>Jeſus Chriſt,</hi> or <hi>G. Fox.</hi> But to proceed,</p>
+            </div>
+            <div type="section">
+               <head>Touching the <hi>Quakers</hi> Inſolent Boldneſs.</head>
+               <p>
+                  <hi>Q.</hi> 49. Whether was it not great boldneſs in your Teachers to write an Epiſtle, or new Liturgy, to be Read in Churches? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 50. Whether was it not great Preſumption, Pride and Arrogance, in <hi>Geo. Fox,</hi> to write a Battle-door for the Clergy, to Teach them the Engliſh of <hi>Tu</hi> and <hi>Vos? Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 51. Whether was it not abominable Pride, and impudent Boldneſs, in your great Apoſtle <hi>Fox,</hi> to pretend to write a Book, and affix his Name in ſix or eight places, to thoſe Learned Languages in the Battle-door, of which he under<g ref="char:EOLhyphen"/>ſtood not a word, but got <hi>Stubs</hi> and <hi>Furley</hi> to do it for him; and what they could not do, to Hire a <hi>Jew,</hi> and gave him 80 <hi>l.</hi> in Silver, and a Dozen Bottels of Wine, whilſt he would be eſteemed and taken for the Author thereof? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 52. Whether it was not great Boldneſs in this Ignorant <hi>Fox,</hi> and a Badge of Intollerable Pride, to put forth a Book, Stiled, <hi>A Primmer for all the Doctors and Scholars in</hi> Europe, containing 2434 Queries of Nonſenſe? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 53. Whether was it not great Impudence in your Teachers, to go into the Churches, and diſturb Eſtabliſh'd Miniſtry; as their Practice was for 10 or 15 Years together; and whether they would bear it now themſelves, were they ſo Affronted? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 54. Was it not great Impudence in your Teachers, to call the Church of <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngland,</hi> A Cage of unclean Birds? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 55. Whether it was not great Boldneſs in your Teachers, and Seditious in its own Nature, for them to give out a general Summons to all Eccleſiaſtical Courts and Officers, behind their Backs, as in <hi>Smith</hi>'s Works? <hi>p.</hi> 161. <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 56. Whether it was not great Boldneſs, and intollerable Preſumption, in your Teachers to Catechize by way of Dialogue, all the Biſhops, Doctors Vicars and Curates, and all Prelaticals, as in <hi>Smith</hi>'s Works, <hi>p.</hi> 158, <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 57. Whether it was not great Boldneſs, and brazon'd Impudence in your Teachers, to undertake and print a mock Tryal of the Church of <hi>England,</hi> and her Foundation, and therein to condemn her to be an Adulterous Womb, and guilty of Witchcraft and Sorcery, as in <hi>Smith</hi>'s Works, <hi>p.</hi> 160? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 58. Whether it was not intollerable Pride and Arrogance, at another time
+<pb n="5" facs="tcp:35355:3"/> to Erect a mock Court, to feign a mock Tryal, and there to Examine, Try, and Judge all the Teachers and Miniſters of the Proteſtant Churches; and therein to Condemn them Guilty of falſe Doctrine; yea, to agree and concur with all the falſe Prophets and Deceivers in former Ages, as well as in this, both in their Call, Maintenance, and Practice, (as their words are) and all behind their Backs, and then to Print and expoſe them ſo found Guilty and Condemn'd, as in <hi>Burrough</hi>'s Works, <hi>p.</hi> 223. and Approved and Recommended by <hi>George Whitehead? Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 59. Whether it was not intollerable Boldneſs and brazon'd Impudence, in your Teachers, to Charge the Common-Prayer-Book to be brought forth by an Adulterous Womb; and that the Pope gives Life and Breath unto it! and from the Pope's Loyns (ſay they) it receives its Strength, as in <hi>Smith</hi>'s Works, <hi>page</hi> 164? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 60. Whether you agree and conſent to your Teachers, Blaſphemy herein objected againſt them, with their Idolatry herein manifeſted, with their Pride, Preſumption, and Brazon-fac'd Boldneſs, herein ſet forth, or whether you will join to have theſe Blaſphemous and Seditious Books Condemn'd and committed to the Flames, as their juſt merit; and as a Teſtimony againſt Qua<g ref="char:EOLhyphen"/>keriſm? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 61. Whether you believe with your Teachers, That all Governors and Rulers, ought to be accountable to the People, and to the next ſucceeding Ru<g ref="char:EOLhyphen"/>lers, for all their Actions, which may be inquired into upon occaſion, as in <hi>Burrough</hi>'s Works, <hi>p.</hi> 442. and there 'tis made an Article of your Faith? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 62. If yea, Whether it be not a Lamentable thing, that ſuch a Tribe of Ignorant Wretches, who not one of a Thouſand of them throughout your Tribes, can ſay the Lord's Prayer, the Ten Commandments, and the Apoſtles Creed, by Heart, nor give an Account of their Faith and Hope, conſiſtent with the Arti<g ref="char:EOLhyphen"/>cles of the Chriſtian Faith; I ſay, that ſuch an Ignorant Tribe of Men, ſhould Sit Judges, Erect Courts, and Condemn and Cenſure a National Learned Clergy, and the Beſt Conſtituted Church in the World, and Charge the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer to be brought forth by an Adulterous VVomb, to Spring from the Pope, and to receive its Strength from his Loyns? <note n="*" place="margin">Tho' Eſtabliſh'd by the Truth of the Scripture, and con<g ref="char:EOLhyphen"/>firm'd by Act of Parliament.</note> Good God! was ever the like heard of, that a People, who pretend to that meekneſs, that ſome think they would not hurt a VVorm, and yet be ſo bold as thus to proceed, thus to Print and Publiſh? Surely we may ſearch all <hi>Europe, Aſia, Africa</hi> and <hi>America,</hi> and not find the like Inſolent Boldneſs; I ſay; is not this a Lamen<g ref="char:EOLhyphen"/>table thing? Anſwer if you have any Courage left.</p>
+            </div>
+            <div type="section">
+               <head>Touching their Hypocriſie and Cenſoriouſneſs.</head>
+               <p>
+                  <hi>Q.</hi> 63. VVhether you ſtill believe the <hi>Quakers</hi> to be the only Church of Chriſt, and that the <hi>Quakers</hi> are in the Truth, <hi>and none but they,</hi> as your Doctors, <hi>Whitehead,</hi> and <hi>Sol. Eccles</hi> Teach, notwithſtanding you Reject the Ordinances of Baptiſm and the Lord's Supper, Reject the Reading the Holy Scriptures in your Meetings; yet read your own nonſenſical Epiſtles, make no Confeſſion of Sin, nor ask Pardon for Chriſt's ſake, nor ever pray in the Name of Jeſus to God the Fa<g ref="char:EOLhyphen"/>ther? <hi>Anſw.</hi>
+               </p>
+               <pb n="6" facs="tcp:35355:4"/>
+               <p>
+                  <hi>Q.</hi> 64. Why do your Teachers leave out of your Marriage Certificates the Wo<g ref="char:EOLhyphen"/>man's Promiſe of Obedience to her Husband, it being a Command of God? And is not this the main Reaſon that the <hi>Quakers</hi> Wives are not aſhamed to tell you, they ſee no Reaſon that they ſhould either Obey or Reverence their Huſ<g ref="char:EOLhyphen"/>bands? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 65. Whether you be not more Zealous for the Commandments of <hi>G. Fox,</hi> in the Education of your Children; teaching them ſtrictly to obſerve <hi>Thee</hi> and <hi>Thou</hi> to a ſingle Perſon; Firſt, Second, and Third Day of the Week, not to wear Lace, <hi>&amp;c.</hi> than you are for the Commandments of God, which teach VVomen to obey their Husbands, Children their Parents, Servants their Maſters, Subjects their Princes and Governors? <hi>&amp;c. Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 66. Why do you ſuffer ſuch Hypocrites to teach among you, as <hi>Cater,</hi> who pretended he ſuffer'd 20 <hi>l.</hi> for Preaching at <hi>Phakenham,</hi> in <hi>Norfolk,</hi> when he ſuf<g ref="char:EOLhyphen"/>fer'd not a Groat, but got 10 <hi>l.</hi> clear into his Pocket? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 67. Why do you ſuffer <hi>George Whitehead</hi> to Teach amongſt you, who Preach againſt Swearing, and yet himſelf did ſwear in the Lord-Mayor's Court, <hi>April</hi> 9. 1695. before the <hi>Quakers</hi> Oath was Enacted? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 68. Whether it was not a Trial of Skill to root out the Proteſtant Mini<g ref="char:EOLhyphen"/>ſtry, and overturn the Church of <hi>England,</hi> when 7000 <hi>Quakers</hi> petitioned the Parliament againſt Tythes? And can you take it ill if you meet with ſuch a Petiti<g ref="char:EOLhyphen"/>on, to purge the Nation of Blaſphemers? <hi>Anſw.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> 69. Whether you think <hi>Whitehead,</hi> your Drudge, can defend your Teach<g ref="char:EOLhyphen"/>ers from what in this Paper, and my laſt Book, is objected againſt them? If not, ought you not to examine the Matter? <hi>Anſw.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Laſtly, Who they Account Falſe Miniſters, and what ſuch are?</head>
+               <p>
+                  <hi>Q.</hi> 70. Whether you believe, as one ſort of your Books Teach? <hi>Viz.</hi> Firſt, Are all ſuch as ſprinkle Children; ALL ſuch as Preach Chriſt without, and bid People believe in him, as he is in Heaven above; ALL ſuch as Preach out of the Scriptures; ALL that Pay Tythes; ALL that Receive Tythes; falſe Mini<g ref="char:EOLhyphen"/>ſters? And if ſo, then <hi>Secondly,</hi> Are ſuch Conjurers, Thieves, Robbers, Anti<g ref="char:EOLhyphen"/>chriſts, <hi>Baal</hi>'s Prieſts, Witches, Blind Guides, Serpents, and Devils? Are all ſuch Liars, and the Sir-<hi>Symons</hi> of the Age, whoſe Commiſſion and Call (ſay they) came from <hi>Oxford</hi> and <hi>Cambridge?</hi> Are all ſuch Stewards of the Devil's Magazines, Diſſemblers, Hypocrites, and a Viperous and Serpentine Generati<g ref="char:EOLhyphen"/>on, as your Teachers ſay? Yea, of the Devil, fearful Blaſphemers, Scarlet-co<g ref="char:EOLhyphen"/>lour'd Beaſts; a Harlot, full of Abomination and Filthineſs; <hi>Babylon</hi>'s Mer<g ref="char:EOLhyphen"/>chants, ſelling Beaſtly Wares for a large Price; the LETTER, <note n="*" place="margin">Mark, the Scriptures are with them Beaſtly Ware, Duſt and Death, and elſe<g ref="char:EOLhyphen"/>where Serpents Meat.</note> which is Duſt, and Death, and Whited Walls, profeſſing nothing but Poyſonous Stuff; Ravening Wolves, greedy Dogs? Really they are (ſay this Book of the <hi>Quakers</hi>) Blood-Hounds, ſtill Hunting and Gaſping after their Prey, like the Mouth of Hell, Barking and Raging like <hi>Sodomites,</hi> Ambitious Phari<g ref="char:EOLhyphen"/>ſees; yea, of the Devil; Wo, wo, wo, was the Portion of thoſe Phari<g ref="char:EOLhyphen"/>ſees then, and wo, wo, wo, is their Portion now, and Wo and Miſery is the Portion of the Upholders (<hi>i. e.</hi> King and Parliament) of that Treacherous and Deceitful Generation, <hi>&amp;c. Anſw.</hi>
+               </p>
+            </div>
+            <div type="postscript">
+               <pb n="7" facs="tcp:35355:4"/>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>Reader,</hi> This Sheet (which is occaſion'd by the <hi>Quakers</hi> Deportment) gives a freſh Taſte of the Spirit of Quakeriſm: For I having diſperſed my Charge to <hi>G. W.</hi> as in <hi>Pilgrims Progreſs,</hi> &amp;c. <hi>p.</hi> 172. into divers part of the Nation; not only by my Book aforeſaid, but by a ſingle Quarto Page; this has greatly tor<g ref="char:EOLhyphen"/>mented the <hi>Quakers:</hi> For clear themſelves thereof they cannot, and condemn their Errors they will not; for then down goes Infallability, and with it Qua<g ref="char:EOLhyphen"/>keriſm, that being the main Pillar, upon which their <hi>Babel</hi>-Building ſtand: And when I was at <hi>Oxford,</hi> I ſent one of theſe Quarto Pages, containing the ſaid Charge, to <hi>Sylas Norton,</hi> a Quaker; he asked the Meſſenger from whence it came, who told him from <hi>Francis Bugg;</hi> I will not receive it, ſaid <hi>Sylas:</hi> The ſame day, I being at <hi>Chriſt</hi>'s-<hi>Church-College,</hi> and diſcourſing of it, and how <hi>S. Norton</hi> rejected the ſaid Charge and Challenge, one of the Fellows deſired me to go along with him to <hi>S. Norton,</hi> thinking, I ſuppoſe, that he could prevail with him, to attempt a Defence; I went with him, and by all the fair VVords and Chriſtian Arguments that he could uſe, could not gain the Point; tho' he told him the Charge was high; and if true upon them, the <hi>Quakers</hi> were not Chriſtians; and if not true, he would engage the Univerſity ſhould condemn <hi>Francis Bugg:</hi> I then alſo offer'd, that if I did not prove it upon them from their approved Authors, that I would burn my Book, as a Teſtimony againſt my own Injuſtice: But neither of us could prevail; but inſtead thereof, according to their wonted manner, he and his VVife railed at me, call'd me Liar, Serpent, Brute Beaſt, and the like Names; and not only ſo, but fell foul on the Gentleman, and told him, that they hired <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> to curſe the <hi>Quakers,</hi> which I take to be a foul Slander caſt upon that Fa<g ref="char:EOLhyphen"/>mous Univerſity; for they never hired me, nor perſwaded me to write a Line, nor put VVords into my Mouth; but what I write is of my own Accord; I never was, nor am, a Hireling, but a Volunteer. <hi>Firſt,</hi> when I was a Quaker, I ſuffer'd Three Years and Four Months Impriſonment, for meeting, and not taking the Oath of Allegiance; I ſuffer'd more than 100 <hi>l.</hi> in Fines and Diſtreſſes for Meet<g ref="char:EOLhyphen"/>tings; I was Recorder to their Monthly and Quarterly Meetings 16 or 18 Years, and never took one Shilling for all my Journeys, and other Service; I gave 20 <hi>l.</hi> towards building their Meeting-Houſe in <hi>Milden-Hall,</hi> tho' when I left them, and they denied me the uſe thereof, by Agreement they repaid me 12 <hi>l.</hi> thereof, which I put to a better uſe; namely, Printing againſt thoſe Errors I formerly held; I was one of the chief Entertainers of their Miniſters in that part of the Country where I dwelt; I have Cloathed ſome, and put Money in the Pockets of others of them; I know not in what thing I was Inferior to them, which now Domineer and Inſult over me.</p>
+               <p>And <hi>Secondly,</hi> ſince I left them, I have waged War with their Teachers from 1678, to 1698; not only by Manuſcript Controverſie, but almoſt every Year, one with another, a Book, little or great, againſt them, in Print, and never till 1697. took Ten Shillings of all the Clergy: I never Curſed them; no, Chriſt commands to Bleſs, and Curſe not; and the Doctrine of the Church of <hi>England</hi> teach the ſame; inſomuch, that I have, and can pray, that God may Bleſs them, in turning them from the Errors of their Ways, upon their Confeſſion of their Sins to God, and begging Pardon, for Chriſt's ſake: But they have Curſed me; I cannot ſay with <hi>Bell, Book,</hi> and <hi>Candle,</hi> but in their Books and Letters; ſee <hi>Pilgrims Progreſs,</hi> p. 146. and not only me, but the Biſhops of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that in Print, calling them <hi>Curſed Biſhops;</hi> and <hi>Sam. Cater,</hi> in a Meeting at <hi>Milden-Hall,</hi> in my Hearing, Curſed the Clergy, ſaying, <hi>They are Curſed with an Everlaſting Curſe:</hi> I then jogged
+<pb n="8" facs="tcp:35355:5"/> 
+                  <hi>John Everet,</hi> ſitting by me, (another of their Teachers) who going home with me, I asked him how he liked ſuch Doctrine: He told me, not at all. And as for their Inſolent Boldneſs, I have recited a Sample in theſe Queries, bottomed on Matter of Fact in their Books, and more largely handled them elſewhere, and this angers them; they began with Curſing and Railing, and continue the ſame ſtill; they are not changed, they tell you ſo; but they like not to have it taken Notice of, that angers them; they love it as well as ever they did, and are as free in it; witneſs <hi>Sylas Norton</hi>'s Carriage to me at <hi>Oxford;</hi> but as their Books are of two ſorts, ſo are their Carriages; they'll be as ſmooth as Oyl to your Face, when the Poyſon of Aſps is under their Tongue; or elſe (as a worthy Clergy-man lately ſaid) <hi>How ſhould they prove themſelves right-bred Children of the Accuſer of the Brethren?</hi> It's true, I have ript up their Boldneſs, their Sawcineſs, and Impudence, that angers them; they love to uſe it, it's the Marrow of their Religion, and by which they have beguiled Thouſands of young unſtable People, by telling them, the Clergy are Witches, Devils, Conjurers, and the like: But this they would not have expoſed; this is to uſe when they ſee Occaſion; they can now word the Mat<g ref="char:EOLhyphen"/>ter otherwiſe, and yet mean the ſame thing; <hi>G. Whitehead</hi> tells you ſo, and you may believe him.</p>
+               <p>It may be their Hearers may ſay, that one Fool may ask more Queſtions than a Hundred wiſe Men can anſwer, which I grant; and one of thoſe Fools I have long ſince taken their great Apoſtle to be, (<hi>Geo. Fox</hi> by name; yea, and Nature too,) who in his Book, ſtiled in Contempt of the Clergy, <hi>A Primmer for all the Doctors and Scholars in</hi> Europe, <hi>&amp;c.</hi> propoſed to the Univerſities and Clergy, <hi>&amp;c.</hi> 2434 Que<g ref="char:EOLhyphen"/>ries, which all the <hi>Quakers</hi> in <hi>England</hi> can never anſwer, ſhould they go about it: But to avoid that Rock, I have propoſed to their Hearers only 70 Queries, both plain and eaſie to anſwer, by ſaying <hi>Yea</hi> or <hi>Nay</hi> to each Queſtion, and which, I my ſelf can anſwer in half an Hours time; I have now by me near 4000 Quaker Queries to the Clergy, and many of them anſwered in Print, ſo many at leaſt as are worth noticing: And ſince it has been their own Method, to trouble the World with their Impertinent Queries; as, <hi>What is a Dative Caſe? What is a Genitive Caſe? What is a Participle? What is an Adverb? What is a Dipthong? What is an E-dipthong? And who ſpake them firſt? And what is Dog-Madneſs? What is Badger-madneſs?</hi> And the like; Why may not I queſtion them about their Funda<g ref="char:EOLhyphen"/>mentals? 'Tis but a Query to a Perſon; 70 Queries to 70 <hi>Quakers;</hi> which, when anſwer'd, I ſhall propoſe 70 more, and ſo on, until we underſtand them: But to avoid that, I fear they'll not anſwer theſe few; for Error loves Obſcurity, becauſe Darkneſs is its Habitation; Counterfeit Coyn will not endure Trial: And this makes them rage, this makes them rail, fret and fume; for Reprobate Sil<g ref="char:EOLhyphen"/>ver they are loath to be called, yet by the Help of a Metaphor, 'tis their proper Name; but not<g ref="char:EOLhyphen"/>withſtanding all this Plainneſs of Speech, yet I preſume they'll again be angry: But I have learnt to bear all things; I know their Hypocriſie is as deep as Hell, and their Malice as cruel as the Grave, and that againſt me and others, who have diſcover'd their Curſing, their Railing, and Impudent Boldneſs; but I'll keep out of <hi>Moore-Fields,</hi> and hope to avoid the Dint thereof, and am content to become the Object both of their Scorn and Malice, ſo that thereby I may have Opportunity to make them manifeſt; firſt to themſelves, that they may Repent, and then to others; for many of them are ſo Ignorant, (reſpecting the Chriſtian Religion, which teach us to Love our Enemies, Bleſs, and Curſe not, do Good to them that deſpitefully uſe you) that they know not their Right Hand from their Left, and yet ſo ſpiritually Proud, that they will not be taught.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>Written by the Author of <hi>The Pilgrim's Progreſs, from Quakeriſm to Chriſtiani<g ref="char:EOLhyphen"/>ty,</hi> &amp;c. <hi>Sept.</hi> 1698. and both Sold by <hi>W. Kettleby,</hi> at the <hi>Biſhop's-Head,</hi> in St. <hi>Paul</hi>'s <hi>Church-yard, London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
